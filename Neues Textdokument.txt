@@ -1,0 +1,13 @@
+FIXED:
++ Menu on PC
++ All Tracers [Performance]
++ All Beacons [Performance]
++ Distance ESP [Performance]
+
+ADDED:
++ Change Narration Voice
++ Platform Indicators
++ Platform ESP
+
+REMOVED:
+- Nothing
